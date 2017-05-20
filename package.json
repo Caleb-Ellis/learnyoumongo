@@ -1,0 +1,14 @@
+{
+  "name": "3-learnyoumongo",
+  "version": "1.0.0",
+  "description": "FCC Back-End learnyoumongo module",
+  "main": "ex01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "learnyoumongo": "^3.2.1"
+  }
+}
