@@ -9,6 +9,7 @@
   "author": "me",
   "license": "ISC",
   "dependencies": {
-    "learnyoumongo": "^3.2.1"
+    "learnyoumongo": "^3.2.1",
+    "mongodb": "^2.2.26"
   }
 }
